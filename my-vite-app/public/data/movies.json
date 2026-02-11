@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "title": "Wall-E",
+    "year": 2008,
+    "description": "Robot de basura que limpia la Tierra y descubre el amor.",
+    "duration": 98,
+    "genre": "Animación",
+    "director": "Andrew Stanton",
+    "rating": 8.4,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/736x/eb/bb/92/ebbb92d053a07d186c8214de8ce49599.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cars",
+    "year": 2006,
+    "description": "Rayo McQueen aprende el verdadero significado de la amistad.",
+    "duration": 117,
+    "genre": "Animación",
+    "director": "John Lasseter",
+    "rating": 7.2,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/474x/71/d7/a3/71d7a3e864631cdac4ed9782c92646f1.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "Toy Story",
+    "year": 1995,
+    "description": "Un vaquero de juguete se siente amenazado por la llegada de un nuevo guardián espacial.",
+    "duration": 81,
+    "genre": "Animación",
+    "director": "John Lasseter",
+    "rating": 8.3,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Ratatouille",
+    "year": 2007,
+    "description": "Una rata que puede cocinar forma una alianza inusual con un joven trabajador de un restaurante.",
+    "duration": 111,
+    "genre": "Animación",
+    "director": "Brad Bird",
+    "rating": 8.1,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/1200x/74/cb/dc/74cbdc04abed7f74cba71fe0231f8c11.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Coco",
+    "year": 2017,
+    "description": "Miguel viaja a la Tierra de los Muertos para descubrir la historia de su familia.",
+    "duration": 105,
+    "genre": "Animación",
+    "director": "Lee Unkrich",
+    "rating": 8.4,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/originals/74/a9/8d/74a98d67b84ccb2b4b7202e01f9ae82a.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "A Minecraft Movie",
+    "year": 2025,
+    "description": "Cuatro inadaptados se ven arrastrados a través de un portal al Mundo Real, un extraño bloque donde deberán dominar el arte de la creación para volver a casa.",
+    "duration": 105,
+    "genre": "Aventura/Fantasía",
+    "director": "Jared Hess",
+    "rating": 5.8,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/474x/81/71/85/817185639d42f10776bcb289112f9670.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Five Nights at Freddy's",
+    "year": 2023,
+    "description": "Un guardia de seguridad comienza a trabajar en Freddy Fazbear's Pizza, donde descubre que las mascotas animatrónicas no son tan adorables como parecen.",
+    "duration": 109,
+    "genre": "Terror",
+    "director": "Emma Tammi",
+    "rating": 7.1,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://i.pinimg.com/474x/c5/76/66/c576660b986cb938606d536a4dd38b5f.jpg"
+  }
+]

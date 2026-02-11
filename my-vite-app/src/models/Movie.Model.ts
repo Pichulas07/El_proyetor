@@ -1,5 +1,13 @@
-export interface Movie{
-    id: string;
+export interface Movie {
+    id: number;
     title: string;
-    description: string;
+    year: number;
+    description?: string;
+    duration: number;
+    genre: string; 
+    director?: string;
+    rating: number; 
+    language: string;
+    country: string;
+    posterUrl: string;
 }
