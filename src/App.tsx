@@ -6,7 +6,7 @@ import { Home } from "./features/home/Home";
 import NotFound from "./shared/NotFound";
 import Movies from "./features/movies/Movies";
 import { MovieDetails } from "./features/movies/MovieDetails";
-import User from "./features/profile/user";
+import User from "./features/profile/User";
 
 function App() {
   return (
