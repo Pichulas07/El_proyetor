@@ -4,7 +4,7 @@ import type { Movie } from "../../models/Movie.Model";
 export default function MovieCard(movie: Movie) {
    return (
     <Link to={`/movies/${movie.id}`}>
-      <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transform transition duration-300">
+      <div className=" shadow-lg rounded-lg overflow-hidden hover:scale-105 transform transition duration-300">
         
         {/* Imagen del póster */}
         <img
