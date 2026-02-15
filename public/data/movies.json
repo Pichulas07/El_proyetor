@@ -91,5 +91,18 @@
     "language": "Inglés",
     "country": "Estados Unidos",
     "posterUrl": "https://i.pinimg.com/474x/c5/76/66/c576660b986cb938606d536a4dd38b5f.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "description": "Bob Esponja y Patricio se embarcan en una aventura para recuperar la corona del Rey Neptuno y salvar a Don Cangrejo, demostrando que incluso el héroe más pequeño puede lograr grandes cosas.",
+    "duration": 87,
+    "genre": "Animación",
+    "director": "Stephen Hillenburg",
+    "rating": 7.2,
+    "language": "Inglés",
+    "country": "Estados Unidos",
+    "posterUrl": "https://ih1.redbubble.net/image.2574227156.6377/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
   }
 ]
